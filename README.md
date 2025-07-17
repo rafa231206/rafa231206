@@ -3,13 +3,13 @@
 **Mahasiswa Teknik Informatika | UIN Maulana Malik Ibrahim Malang**  
 
 <p align="center">
-  <img src="github-header-image (1).png" alt="Header image showing coding workspace" width="100%"/>
+  <img src="github-header-image (1).png" alt="Header image showing coding workspace" width="80%"/>
 </p>
 
 ---
 
 ## 🌟 Tentang Saya  
-<img align="right" src="506986091_3639265676377448_6505629332826042357_n.jpg" width="200" style="border-radius:50%">
+<img align="right" src="506986091_3639265676377448_6505629332826042357_n.jpg" width="150" style="border-radius:50%">
 
 Halo! Saya **Farel**, seorang mahasiswa aktif di UIN Maulana Malik Ibrahim Malang dengan jurusan **Teknik Informatika**. Passion saya:  
 
@@ -39,7 +39,7 @@ Halo! Saya **Farel**, seorang mahasiswa aktif di UIN Maulana Malik Ibrahim Malan
 
 ## 🎮 Projek Unik  
 ### 1. Game Pasangan Interaktif  
-<img src="popup.jpg" width="100%">
+<img src="popup.jpg" width="30%">
 
 **[→ Lihat Projek](https://rafa231206.github.io/SkyboundLovers/)**
 
@@ -59,7 +59,7 @@ Halo! Saya **Farel**, seorang mahasiswa aktif di UIN Maulana Malik Ibrahim Malan
 </p>
 
 <p align="center">
-  <img src="https://placehold.co/600x100?text=Terus+belajar+dan+berkarya!" width="100%">
+  <img src="https://placehold.co/600x100?text=Terus+belajar+dan+berkarya!" width="50%">
 </p>
 
 
