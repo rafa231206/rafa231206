@@ -27,9 +27,8 @@ Halo! Saya **Farel**, seorang mahasiswa aktif di UIN Maulana Malik Ibrahim Malan
 
 ## 📈 Statistik GitHub  
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa231206&show_icons=true&theme=midnight-purple&locale=id)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa231206&layout=compact&theme=midnight-purple locale=id)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/itsvg/?username=rafa231206&layout=compact&theme=midnight-purple locale=id)
+  <img src="https://github-readme-stats.vercel.app/api?username=rafa231206&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa231206&layout=compact&theme=radical" alt="Top Languages" />
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rafa/231206&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -63,7 +62,7 @@ Halo! Saya **Farel**, seorang mahasiswa aktif di UIN Maulana Malik Ibrahim Malan
   <img src="https://placehold.co/600x100?text=Terus+belajar+dan+berkarya!" width="100%">
 </p>
 
-
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -71,3 +70,4 @@ Halo! Saya **Farel**, seorang mahasiswa aktif di UIN Maulana Malik Ibrahim Malan
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
+###
